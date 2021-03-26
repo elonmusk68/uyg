@@ -1,0 +1,25 @@
+img {
+height:350px;
+ border-radius:50%;
+ width:350px;
+}
+body{
+margin:0px;
+padding:0px
+  text-align: center;
+background: linear-gradient(#26f1ff 0%, #27ae60 100%);
+  background-repeat: no-repeat;
+}
+.container{
+display: flex;
+justify-content: center;
+align-items:center;
+
+}
+h1{
+text-align: center;
+text-shadow: 2px 2px  #0f4363;
+font-size: 50px;
+}
+
+
